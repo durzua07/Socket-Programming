@@ -47,3 +47,5 @@ while True:
     
     ClientSocket.close()
     sys.exit(0)
+
+""" Testing the commit feature"""
